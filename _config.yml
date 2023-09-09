@@ -1,6 +1,6 @@
-name: Sound of Text Tutorial
-title: Sound of Text Tutorial
-description: Free Google text to speech documentation
+name: Retail Giants
+title: Retail Giants
+description: Unlock retail exellence
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
 baseurl: ''
@@ -10,12 +10,12 @@ include:
 permalink: '/:title/'
 authors:
   techidn:
-    name: Soundtext
-    display_name: Soundtext
-    email: soundtext@emzeth.com
-    twitter: ''
-    description: "Convert text into speech with Google speech synthesis engine"
-    web: "https://soundtext.github.io"
+    name: Harris
+    display_name: Harris
+    email: harris@emzeth.com
+    twitter: '@minivnutrition'
+    description: "Unlock retail exellence!"
+    web: "https://retailgiant.github.io"
     gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
   - jekyll-paginate
