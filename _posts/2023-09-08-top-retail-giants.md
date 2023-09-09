@@ -3,7 +3,7 @@ title: Top 20 Retail Giants in the USA
 layout: post
 author: techidn
 categories: 
-- Apps
+- United States
 image: assets/images/retail_cover.jpg
 featured: true
 ---
