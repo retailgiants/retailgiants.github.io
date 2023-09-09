@@ -4,7 +4,7 @@ layout: post
 author: techidn
 categories: 
 - Apps
-image: https://techidn.github.io/assets/images/retail_cover.jpg
+image: https://retailgiants.github.io/assets/images/retail_cover.jpg
 featured: true
 ---
 
