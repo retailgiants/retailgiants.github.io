@@ -4,11 +4,11 @@ layout: post
 author: techidn
 categories: 
 - United States
-image: assets/images/empty_mall.jpg
+image: assets/images/empty-mall.jpg
 featured: true
 ---
 
-Hey retail enthusiasts! Have you noticed how department stores today are totally different from what they used to be? Yep, department stores worldwide are going through a massive transformation. Curious about why? Let's dive in together! 🏬
+Hey retail enthusiasts! Have you noticed how department stores today are totally different from what they used to be? Yep, department stores worldwide are going through a massive transformation cited from [RLI UK](https://www.rli.uk.com/). Curious about why? Let's dive in together! 🏬
 
 ---
 
@@ -60,7 +60,7 @@ Remember when department stores were just places to buy stuff? Well, they've evo
 
 ---
 
-![alt text](/assets/images/empty_mall.jpg)
+![alt text](/assets/images/empty-mall.jpg)
 
 ## Why The Big Change?
 
